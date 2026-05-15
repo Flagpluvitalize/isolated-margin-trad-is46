@@ -1,4 +1,4 @@
-# 
+# automatic Automation Script for isolated-margin trading bot | webhook-support + grid-trading offers the most advanced isolated-margin trading bot, with webhook-support and
 
 
 
